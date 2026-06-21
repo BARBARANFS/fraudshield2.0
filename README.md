@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.png" width="100">
+    <img src="assets/logo.png" width="150">
 </p>
 
 <h1 align="center">🛡️ FraudShield AI 2.0</h1>
