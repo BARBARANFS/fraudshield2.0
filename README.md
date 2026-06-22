@@ -18,9 +18,10 @@ Detecção Inteligente de Fraudes Financeiras com Machine Learning, Explainable 
 </p>
 ---
 
-# 🎥 Demonstração
 
-### Vídeo do Projeto
+## 🎥 Demonstração em Vídeo
+
+Link será disponibilizado após a publicação do vídeo.
 
 🔗 **Link:** INSIRA_AQUI_SEU_LINK_DO_GOOGLE_DRIVE_OU_YOUTUBE
 
@@ -38,7 +39,7 @@ O FraudShield AI 2.0 é uma plataforma de análise e detecção de fraudes finan
 
 A solução utiliza algoritmos avançados de Machine Learning para identificar transações suspeitas, calcular impactos financeiros e fornecer explicabilidade das decisões através de técnicas de Explainable AI (XAI).
 
-Além da classificação automática de fraudes, a plataforma disponibiliza um dashboard executivo interativo voltado para análise estratégica e tomada de decisão.
+Além da modelagem preditiva, a plataforma inclui um dashboard executivo interativo voltado à análise de risco, performance e tomada de decisão estratégica.
 
 ---
 
@@ -48,13 +49,13 @@ Fraudes financeiras geram bilhões em prejuízos anualmente para empresas e inst
 
 Os principais desafios são:
 
-- Detectar fraudes rapidamente
-- Reduzir perdas financeiras
-- Minimizar falsos positivos
-- Garantir transparência das decisões automatizadas
-- Atender requisitos de auditoria e governança
+- Detecção rápida e precisa de fraudes
+- Redução de perdas financeiras operacionais
+- Minimização de falsos positivos
+- Transparência e auditabilidade dos modelos
+- Conformidade com práticas de governança e risco
 
-O FraudShield AI foi projetado para enfrentar esses desafios através de Inteligência Artificial aplicada ao contexto financeiro.
+O FraudShield AI foi desenvolvido para endereçar esses desafios com uso aplicado de Inteligência Artificial.
 
 ---
 
@@ -73,53 +74,48 @@ A solução pode ser aplicada em:
 
 ---
 
-# 🚀 Funcionalidades
+# 🚀 Funcionalidades 
 
-### 📋 Painel Executivo
+## 📊 Executive Dashboard
 
-- Indicadores estratégicos
-- Volume de transações
-- Fraudes detectadas
-- Taxa de fraude
-- Perdas evitadas
-
-### 📊 Analytics
-
-- Correlação entre variáveis
-- Descoberta de padrões
-- Análise exploratória
-
-### 🚨 Risk Management
-
-- Matriz de Confusão
-- ROI da Inteligência Artificial
-- Exposição Residual
-- Custos Operacionais
-
-### 🧠 Explainable AI
-
-- Importância das variáveis
-- Transparência dos modelos
-- Governança de IA
-
-### 🏆 Performance
-
-- Comparação de modelos
-- Ranking executivo
-- Seleção automática do melhor modelo
+- KPIs de fraude em tempo real  
+- Volume e distribuição de transações  
+- Taxa de fraude e perdas estimadas  
 
 ---
 
-# 🧠 Modelos Utilizados
+## 📈 Risk Analytics
 
-O projeto compara múltiplos algoritmos de Machine Learning:
+- Matriz de confusão e métricas de risco  
+- Exposição financeira residual  
+- ROI da solução de IA  
 
-| Modelo | Finalidade |
-|----------|----------|
-| Logistic Regression | Modelo estatístico interpretável |
-| Random Forest | Ensemble baseado em árvores |
+---
+
+## 🧠 Explainable AI (XAI)
+
+- Importância de variáveis (feature importance)  
+- Interpretação de decisões do modelo  
+- Suporte à auditoria e compliance  
+
+---
+
+## 🏆 Model Performance
+
+- Comparação entre algoritmos  
+- Seleção automática do melhor modelo  
+- Ranking baseado em métrica composta  
+
+---
+
+# 🧠 Modelos Utilizados 
+
+| Modelo | Descrição |
+|--------|-----------|
+| Logistic Regression | Modelo baseline interpretável |
+| Random Forest | Ensemble robusto baseado em árvores |
 | LightGBM | Gradient Boosting de alta performance |
-| Neural Network (MLP) | Rede Neural Multicamadas |
+| Multilayer Perceptron (MLP) | Rede neural para padrões não lineares |
 
 ---
 
@@ -174,14 +170,23 @@ Esse score permite identificar automaticamente o modelo mais eficiente para o co
 
 # 💰 Análise Financeira
 
-O sistema realiza cálculos executivos para demonstrar o impacto da Inteligência Artificial:
+A solução traduz desempenho técnico em impacto de negócio:
 
-- Perdas evitadas
-- Exposição residual
-- Custo operacional
-- ROI da IA
+- Estimativa de perdas evitadas  
+- Cálculo de exposição ao risco  
+- Custo operacional da operação antifraude  
+- ROI da implementação de IA  
 
-Esses indicadores aproximam o projeto de cenários corporativos reais.
+---
+
+# ⭐ Diferenciais do Projeto 
+
+- ✔ Plataforma completa de detecção de fraudes end-to-end  
+- ✔ Integração de Machine Learning + XAI + Risk Analytics  
+- ✔ Métrica proprietária de avaliação de modelos (Business Score)  
+- ✔ Simulação de ambiente corporativo real (banco/fintech)  
+- ✔ Dashboard executivo interativo em Streamlit  
+- ✔ Foco em decisão orientada a dados (Data-Driven Decision Making)
 
 ---
 
@@ -347,24 +352,6 @@ Projeto desenvolvido para demonstração de competências em:
 - Analytics
 - Risk Management
 - Visualização de Dados
-
----
-
-# ⭐ Diferenciais do Projeto
-
-✅ Dashboard Executivo Profissional
-
-✅ Explainable AI (XAI)
-
-✅ Comparação de Múltiplos Modelos
-
-✅ Análise Financeira
-
-✅ Simulação de Ambiente Bancário
-
-✅ Interface Corporativa
-
-✅ Aplicação Completa em Streamlit
 
 ---
 
