@@ -342,20 +342,46 @@ streamlit run app.py
 
 **Barbara Nascimento de Freitas Silva**
 
-Projeto desenvolvido no contexto do Bootcamp da DIO em parceria com a Accenture Brasil, na trilha de Análise de Dados com Python.
+Projeto desenvolvido no contexto do Bootcamp da DIO em parceria com a Accenture Brasil, na trilha de **Python para Análise e Automação de Dados**.
 
 ---
 
-## 🎯 Competências Demonstradas
+## 🎯 Contexto do Bootcamp
 
-Este projeto foi desenvolvido com foco na aplicação prática de técnicas de Data Science e Machine Learning em um cenário de negócio realista, abrangendo:
+Este projeto foi construído como parte de uma formação prática voltada ao uso de Python, dados e inteligência artificial aplicada em cenários reais de mercado.
 
-- 📊 Análise e exploração de dados (Data Analytics)
-- 🧠 Modelagem preditiva com Machine Learning
-- 🔍 Explainable AI (XAI) para interpretação de modelos
-- 💰 Análise de risco e impacto financeiro
-- 📈 Visualização de dados e construção de dashboards
-- ⚙️ Engenharia de pipeline de dados e processamento
+A trilha aborda o desenvolvimento de competências técnicas em:
+
+- 🐍 Programação com Python aplicada a dados e automação  
+- 🗄️ Construção de consultas SQL com suporte de ferramentas assistidas  
+- 📊 Manipulação, tratamento e visualização de dados com bibliotecas do mercado  
+- 🤖 Uso de inteligência artificial e engenharia de prompts no fluxo de desenvolvimento  
+- ⚙️ Automação de processos com foco em eficiência e produtividade  
+- 🧠 Desenvolvimento de soluções baseadas em IA generativa e assistentes inteligentes  
+
+---
+
+## 🚀 Projeto Final da Trilha
+
+Como entrega prática, a formação propõe a construção de soluções completas integrando:
+
+- Python para análise e automação de dados  
+- SQL para extração e manipulação de dados  
+- IA generativa aplicada a soluções funcionais  
+- Construção de projetos de portfólio com foco em problemas reais  
+
+---
+
+## 🎯 Competências Demonstradas no Projeto
+
+Este projeto aplica os conhecimentos do bootcamp em um cenário de detecção de fraudes financeiras, incluindo:
+
+- 📊 Análise exploratória de dados  
+- 🧠 Machine Learning aplicado a risco e fraude  
+- 🔍 Explainable AI (XAI) para interpretabilidade de modelos  
+- 💰 Análise de impacto financeiro e risco  
+- 📈 Visualização de dados e dashboards executivos  
+- ⚙️ Estruturação de pipeline de dados e automação de fluxo analítico  
 
 ---
 
