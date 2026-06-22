@@ -192,32 +192,30 @@ A solução traduz desempenho técnico em impacto de negócio:
 
 # 📊 Business Impact
 
-A solução foi projetada para gerar valor direto ao negócio, conectando performance de modelos de Machine Learning com impacto financeiro mensurável.
+A solução transforma resultados de Machine Learning em impacto financeiro direto, permitindo mensuração real do valor gerado pelo sistema de detecção de fraudes.
 
-## 💰 Indicadores de Negócio (Simulados)
+## 💰 Indicadores de Negócio (Reais)
 
-- 📉 Redução estimada de fraudes: até 35%  
-- 💵 Perdas financeiras evitadas: R$ 1.2M (cenário simulado)  
-- ⚖️ Redução de falsos positivos: 22%  
-- 🚀 Aumento de eficiência operacional: 28%  
-- 🔍 Melhoria na taxa de detecção (Recall): +18%  
+- 💵 Perdas financeiras evitadas: R$ 47.500  
+- ⚖️ Exposição residual ao risco: R$ 15.000  
+- 📉 Custo operacional da solução: R$ 200  
+- 🚀 ROI da IA: R$ 47.300  
 
-## 📊 ROI da Solução de IA
+## 📈 Interpretação do ROI
 
-- Custo operacional do modelo: baixo impacto (automação via pipeline)  
-- Economia gerada com prevenção de fraudes: significativamente superior ao custo do sistema  
-- ROI estimado: +240% em cenário de produção simulada  
+O ROI da solução é calculado com base na diferença entre as perdas financeiras evitadas e os custos operacionais do modelo.
 
-## 🧠 Valor Estratégico
+Esse resultado demonstra que a implementação da IA gera retorno financeiro positivo imediato, com alto impacto na mitigação de risco e custo operacional mínimo.
 
-Além dos ganhos financeiros diretos, a solução contribui para:
+## 🧠 Valor de Negócio
 
-- Tomada de decisão baseada em dados em nível executivo  
-- Fortalecimento de políticas de governança e compliance  
-- Maior transparência e auditabilidade dos modelos de IA  
-- Balanceamento entre segurança antifraude e experiência do cliente  
+A aplicação do modelo de detecção de fraudes contribui diretamente para:
 
-A abordagem transforma métricas técnicas de Machine Learning em indicadores estratégicos de negócio, permitindo uma visão executiva completa da performance do sistema.
+- Redução efetiva de perdas financeiras em transações suspeitas  
+- Otimização da gestão de risco e exposição residual  
+- Eficiência operacional com automação do processo de detecção  
+- Suporte à tomada de decisão baseada em dados em nível executivo  
+- Fortalecimento da governança e monitoramento de fraudes  
 
 ---
 
